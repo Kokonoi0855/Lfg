@@ -1,0 +1,22 @@
+{
+  "name": "lfg",
+  "version": "1.0.0",
+  "description": "lfg",
+  "main": "index.js",
+  "scripts": {
+    "test": "lfg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koknoi0855/lfg.git"
+  },
+  "keywords": [
+    "gg"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koknoi0855/lfg/issues"
+  },
+  "homepage": "https://github.com/Koknoi0855/lfg#readme"
+}
